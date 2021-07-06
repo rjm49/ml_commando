@@ -1,4 +1,4 @@
-.pynb_checkpoints/*
-unf/*
-data/*
-site/*
+.ipynb_checkpoints
+unf
+unf_data
+site
